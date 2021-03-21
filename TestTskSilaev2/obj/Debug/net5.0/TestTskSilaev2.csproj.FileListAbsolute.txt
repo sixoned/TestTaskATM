@@ -1,0 +1,16 @@
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.exe
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.deps.json
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.runtimeconfig.json
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.runtimeconfig.dev.json
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.dll
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\ref\TestTskSilaev2.dll
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\bin\Debug\net5.0\TestTskSilaev2.pdb
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.csprojAssemblyReference.cache
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.AssemblyInfoInputs.cache
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.AssemblyInfo.cs
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.csproj.CoreCompileInputs.cache
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.dll
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\ref\TestTskSilaev2.dll
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.pdb
+C:\Develop\VS\C#\TestTskSilaev2\TestTskSilaev2\obj\Debug\net5.0\TestTskSilaev2.genruntimeconfig.cache
